@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**ARJUN-SREEKUMAR/ARJUN-SREEKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Arjun Sreekumar, a final-year computer science student passionate about web development and open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<p align="center">
+  <strong>React</strong>
+  - <strong>Redux</strong>
+  - <strong>Node.js</strong>
+  - <strong>Firebase</strong>
+  - <strong>MongoDB</strong>
+  - <strong>Express.js</strong>
+</p>
+
+## Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/arjun-sreekumar-/)
+- [Email](mailto:itsarjunsreekumar@gmail.com)
+
+Feel free to reach out if you'd like to collaborate on a project or just chat about tech! 😊
